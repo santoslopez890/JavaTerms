@@ -12,6 +12,27 @@ public class CommonQuestions {
 //            4. **What are the advantages of using Spring Boot?**
 //            5. **How does Spring Boot simplify Java development?**
 //
+     //Spring Boot basic concepts
+    //
+    //• What is Spring Boot?
+    //Spring Boot is an open-source Java framework that helps developers build web applications, micro services, and standalone Spring projects
+    //
+    //• What are the main features of Spring Boot?
+    //Auto-configuration, Embedded Servers, Spring Initializr, Actuator, Externalized Configuration, Spring Boot CLI, Micro Service support, Simple Dependency management
+    //
+    //• What is the difference between Spring and Spring Boot?
+    //Spring is a lightweight framework that provides a programming and configuration model for Java applications. Spring Boot is an extension of Spring that speeds up the development process by simplifying configuration and providing pre-configured options.
+    //
+    //• What are the advantages of using Spring Boot?
+    //reduced development time due to auto-configuration, minimal boilerplate code, embedded servers like Tomcat and Jetty, no need for XML configuration, easier application deployment
+    //
+    //• How does Spring Boot simplify Java development?
+    //1. Auto-configuration:
+    //2. Embedded Servers: Spring Boot applications can be packaged as self-contained JAR files, which include an embedded web server (Tomcat, Jetty, or Undertow). This means you don't need to deploy your application to an external server, making deployment much simpler.
+    //3. Production-Ready Features: Spring Boot provides several production-ready features, such as:
+    //Actuator: Provides endpoints for monitoring and managing your application.
+    //Spring Security: Simplifies the implementation of security features in your application.
+    //Spring Data: Simplifies data access for relational and NoSQL databases.
 //            ### Configuration and Setup
 //6. **How do you set up a Spring Boot application?**
 //            7. **What is the purpose of the `application.properties` or `application.yml` file?**
